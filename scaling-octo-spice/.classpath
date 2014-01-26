@@ -6,6 +6,4 @@
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="output" path="war/WEB-INF/classes"/>
-	<classpathentry kind="nonsense" path="lolwut"/>
-	<classpathentry kind="somethingsomething" path="lolwut"2/>
 </classpath>
